@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mifuyuu</h1>
+<h1 align="center">Hi 👋, I'm _Tsuzaki</h1>
 <h3 align="center">Beginner Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mifuyuu&label=Profile%20views&color=0e75b6&style=flat" alt="mifuyuu" /> </p>
